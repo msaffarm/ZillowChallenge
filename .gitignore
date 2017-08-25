@@ -1,1 +1,3 @@
 data/*
+scratch.py
+!data/zillow_data_dictionary.xlsx
